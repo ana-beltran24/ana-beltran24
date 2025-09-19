@@ -15,13 +15,3 @@
 <p> Slack: Ana Beltrán </p>
 <p> StarMeUp: Ana Sofía Beltrán Durán </p>
   
-
-
-
-<h3> My Skills:  
-<div align="center">  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-black-and-white-1.png" alt="Arduino" height="40" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/1200px-Python_icon_%28black_and_white%29.svg.png" alt="Python" height="40" /></a>  
-</div>  
-
-<br/>  
