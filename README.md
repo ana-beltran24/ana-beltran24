@@ -5,22 +5,15 @@
   <div align="center">
     <img alt="gif" src="https://i.pinimg.com/originals/33/20/b5/3320b511b6e6ac1a726dc237ece0509d.gif" width="550" height="250" /> </div>
  <div align="center">
-   <h2> - A passionate Systems Engineering student at Universidad Ean - </div>
+   <h2> - A passionate WebUI Developer at Globant - </div>
 
    <div align="center">
      <p> 🌀I'm a disciplined and responsible individual eager to fulfill her goals. I like technology, music and dancing!🌀 </p>
  
 <div align="center">
-<h3> My Social Media:  
-    
-<div align="center">
-<a href="https://instagram.com/_anabd_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/AnaBeltran24" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<h3> My Social Media:  </h3>
+<p> Slack: Ana Beltrán </p>
+<p> StarMeUp: Ana Sofía Beltrán Durán </p>
   
 
 
